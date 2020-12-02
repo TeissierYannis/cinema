@@ -1,0 +1,76 @@
+@startuml
+
+skinparam classAttributeIconSize 0
+
+class Cinema {
+    - id: Int
+    - nom: String
+    - longitude: String
+    - latitude: String
+    - nbr_salle: Int
+}
+
+class Salle {
+    - id: Int
+    - nom: String
+}
+
+class Place {
+    - id: Int
+    - emplacement: Int
+}
+
+class Projection {
+    - id: Int
+    - prix: Float
+    - date: Timestamp
+}
+
+class Sceance {
+    - id: Int
+    - debut: Timestamp
+}
+
+class Ticket {
+    - id: Int
+    - prix: Float
+    - acheteur: String
+    - reserve: Boolean
+}
+
+class Film {
+    - id: Int
+    - titre: String
+    - duree: Timestamp
+    - affiche: String
+    - description: Text
+}
+
+class Ville {
+ - id: Int
+ - pays: String
+ - region: String
+ - departement: String
+ - code_postal: Int
+}
+
+class Paiement {
+    - id: Int
+    - type: String
+}
+
+Cinema "1..1" *--> "1..*" Salle
+Cinema "0..*" --> "1..1" Ville
+
+Projection "0..*" -- "1..1" Salle
+Projection "0..*" -- "1..1" Film
+Projection "1..1" -- "1..*" Sceance
+
+Salle "1..1" *--> "1..*" Place
+
+Sceance "1..1" -- "1..*" Ticket
+Place "1..1" -- "0..*" Ticket
+
+Ticket "0..*" --> "1..1" Paiement
+
+@enduml
