@@ -35,7 +35,7 @@ class Ticket {
     - id: Int
     - prix: Float
     - acheteur: String
-    - reserve: Boolean
+    - is_reserve: Boolean
 }
 
 class Film {

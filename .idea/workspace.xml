@@ -13,13 +13,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ff7ea8-213b-4a6e-ad26-38095f22c609" name="Default Changelist" comment="" />
+    <list default="true" id="33ff7ea8-213b-4a6e-ad26-38095f22c609" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conception/class.puml" beforeDir="false" afterPath="$PROJECT_DIR$/Conception/class.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -143,9 +147,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -157,6 +163,12 @@
       <option name="presentableId" value="Default" />
       <updated>1606293135155</updated>
       <workItem from="1606293136343" duration="7666000" />
+      <workItem from="1606893459668" duration="273000" />
+      <workItem from="1607330557694" duration="92000" />
+      <workItem from="1607330667111" duration="87000" />
+      <workItem from="1607330768965" duration="1175000" />
+      <workItem from="1607334272376" duration="8000" />
+      <workItem from="1607343421167" duration="934000" />
     </task>
     <servers />
   </component>
@@ -173,11 +185,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="622" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606293436027">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="622" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1606293436027" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
