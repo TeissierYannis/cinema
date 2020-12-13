@@ -15,8 +15,6 @@
   <component name="ChangeListManager">
     <list default="true" id="33ff7ea8-213b-4a6e-ad26-38095f22c609" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conception/class.puml" beforeDir="false" afterPath="$PROJECT_DIR$/Conception/class.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +147,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetSymfony-SalleDeSport" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -168,7 +166,8 @@
       <workItem from="1607330667111" duration="87000" />
       <workItem from="1607330768965" duration="1175000" />
       <workItem from="1607334272376" duration="8000" />
-      <workItem from="1607343421167" duration="934000" />
+      <workItem from="1607343421167" duration="961000" />
+      <workItem from="1607413409540" duration="8000" />
     </task>
     <servers />
   </component>
