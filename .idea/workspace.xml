@@ -14,7 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33ff7ea8-213b-4a6e-ad26-38095f22c609" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Cinema.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Cinema.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="PP" pattern="file:src/Entity/Cinema.php||file:src/Entity/Film.php||file:src/Entity/Paiement.php||file:src/Entity/Place.php||file:src/Entity/Projection.php||file:src/Entity/Salle.php||file:src/Entity/Sceance.php||file:src/Entity/Ticket.php||file:src/Entity/Ville.php||file:src/Repository/CinemaRepository.php||file:src/Repository/FilmRepository.php||file:src/Repository/PaiementRepository.php||file:src/Repository/PlaceRepository.php||file:src/Repository/ProjectionRepository.php||file:src/Repository/SalleRepository.php||file:src/Repository/SceanceRepository.php||file:src/Repository/TicketRepository.php||file:src/Repository/VilleRepository.php" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -147,9 +150,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetSymfony-SalleDeSport" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -168,6 +171,7 @@
       <workItem from="1607334272376" duration="8000" />
       <workItem from="1607343421167" duration="961000" />
       <workItem from="1607413409540" duration="8000" />
+      <workItem from="1607853997357" duration="292000" />
     </task>
     <servers />
   </component>
